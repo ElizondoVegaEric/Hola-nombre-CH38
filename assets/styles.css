@@ -1,0 +1,7 @@
+h1{
+  padding-bottom: 10px;
+}
+
+#grad {
+  background-image: linear-gradient(red, yellow);
+}
